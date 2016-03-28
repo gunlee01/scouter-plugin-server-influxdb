@@ -1,0 +1,1 @@
+# scouter-plugin-server-influxdb
